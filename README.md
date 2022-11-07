@@ -4,3 +4,7 @@
 4. git log // показывает нашу запись
 4.1 git log --oneline // показывает запись в укороченном виде
 5. git push [rep_link] [branch_name] // отправить изменения на репозиторий
+
+1. git remote -v // Узнать ссылку на репозиторий
+2. git config user.name "" // добавить или узнать имя
+3. git congig user.email ""
