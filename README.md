@@ -5,7 +5,10 @@
 4.1 git log --oneline // показывает запись в укороченном виде
 5. git push [rep_link] [branch_name] // отправить изменения на репозиторий
    // git push origin master
+
+   Команды:
 1. git remote -v // Узнать ссылку на репозиторий
 2. git config user.name "" // добавить или узнать имя
 3. git congig user.email ""
 4. git branch // узнать бранч
+5. git reset //позволяет удалить файлы в промежуточной области
